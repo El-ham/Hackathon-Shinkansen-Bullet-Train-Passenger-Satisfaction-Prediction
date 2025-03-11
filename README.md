@@ -75,9 +75,3 @@ ID,Overall_Experience
 ```
 ---
 
-## 🔗 Project Links
-- 📂 **GitHub Repository**: [Your GitHub Link]
-- 📜 **Dataset Source**: [Competition Dataset]
-
-This project showcases **data preprocessing, feature engineering, hyperparameter tuning, and model evaluation**, demonstrating advanced **machine learning techniques** applied to real-world datasets. 🚀
-
